@@ -22,11 +22,6 @@ Improves:
 *************************************************/
 #include <util/delay.h>
 #include <avr/io.h>
-//#if defined __AVR_ATmega8__
-//#include <avr/iom8.h>
-//#elif defined __AVR_ATmega328P__
-//#include <avr/iom328p.h>
-//#endif
 #include <avr/interrupt.h>
 #include <ctype.h>
 
